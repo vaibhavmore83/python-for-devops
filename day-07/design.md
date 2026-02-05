@@ -1,4 +1,4 @@
-**How to think before writing automation code**
+# How to think before writing automation code
 
 ## Problem Statement
 The application is generating multiple log files, and with Python, trying to figure out the count of how many statements are showing **INFO**, **WARNING** and **ERROR**.
